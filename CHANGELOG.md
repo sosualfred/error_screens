@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* TODO: Add Error screens to Flutter Apps with ease
+* Add Error screens to Flutter Apps with ease
+
+## 0.0.2
+
+* Implement features to easily customize error text, and colors.
