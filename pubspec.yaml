@@ -1,6 +1,6 @@
 name: error_screens
 description: A Flutter package to help you easily implement error screens
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/sosualfred/error_screens
 
 environment:
