@@ -82,7 +82,7 @@ class ErrorScreenWidget extends StatelessWidget {
               ElevatedButton(
                 onPressed: () {},
                 style: ElevatedButton.styleFrom(
-                  primary: buttonBackgroundColor,
+                  backgroundColor: buttonBackgroundColor,
                   fixedSize: Size(MediaQuery.of(context).size.width * 0.55, 40),
                 ),
                 child: Text(
